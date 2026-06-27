@@ -14,7 +14,7 @@ StatusPedidoEnum = Literal[
     "CANCELADO",
 ]
 
-RoleEnum = Literal["CLIENTE", "ATENDENTE", "COZINHA", "GERENTE", "ADMIN_MATRIZ"]
+RoleEnum = Literal["CLIENTE", "ATENDENTE", "COZINHA", "GERENTE", "ADMIN"]
 
 # Padrão de erro global
 class ErroResponse(BaseModel):
