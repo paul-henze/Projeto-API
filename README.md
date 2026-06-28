@@ -32,7 +32,7 @@ JWT e diferentes níveis de acesso (roles).
 
 ## Endereços ##
 
-Endereço de acesso para a API http://127.0.0.1:8000
+A API estará disponível no endereço http://127.0.0.1:8000
 
 Endereço de acesso para Documentação Swagger: http://127.0.0.1:8000/docs#/
 
